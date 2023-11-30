@@ -1,0 +1,4 @@
+const PEPPER = '0c3cd4e6ff0c01a06f71ff3cdd50486cb212496e2417da6a0c489946233577ac4ff0ccf63beddf38e96a1a7d0fca830d3f45c650449aa380285ccbdee2546617';
+
+export default PEPPER;
+
